@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.green-box{
+    color: white;
+    background-color: teal;
+}
+
+p{
+  font-size: 16px; 
+  color: grey;
+
+}

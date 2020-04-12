@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+background-image: url(http://cdn.wonderfulengineering.com/wp-content/uploads/2014/10/simple-wallpaper-10.jpg);
+}
+
+
+.green-box{
+    color: white;
+    background-color: teal;
+}
+
+p{
+  font-size: px; 
+  color: black;
+
+}
+
+.Navbar{
+  list-style: none;
+  padding:0 ;
+}
